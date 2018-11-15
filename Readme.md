@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/ListBoxFilteringUsingSearchPanel/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/ListBoxFilteringUsingSearchPanel/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/ListBoxFilteringUsingSearchPanel/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/ListBoxFilteringUsingSearchPanel/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to: Locate Information within ListBoxEdit using the Search Control
 
 
