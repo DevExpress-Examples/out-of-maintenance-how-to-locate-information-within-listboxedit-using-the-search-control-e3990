@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxFilteringUsingSearchPanel", "ListBoxFilteringUsingSearchPanel\ListBoxFilteringUsingSearchPanel.csproj", "{A9478B34-AFA5-44F7-BD36-79153366511D}"
 EndProject
 Global
